@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "订单详情",
+  "navigationBarBackgroundColor": "#f9db76",
+  "usingComponents": {
+    "detail": "/pages/skeleton/detail"
+  }
+}

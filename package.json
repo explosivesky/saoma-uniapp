@@ -1,0 +1,18 @@
+{
+  "name": "saoma-uniapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "goeasy": "^2.2.2",
+    "moment": "^2.29.1",
+    "url": "^0.11.0"
+  }
+}

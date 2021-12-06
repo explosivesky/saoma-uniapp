@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "小袁烧烤",
+  "navigationBarBackgroundColor": "#f9db76",
+  "usingComponents": {
+    "cart": "/pages/hone-page/components/shopping-cart",
+    "details": "/pages/hone-page/components/goods-details",
+    "home": "/pages/skeleton/home"
+  }
+}

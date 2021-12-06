@@ -1,0 +1,1 @@
+<view class="qr"><view class="scan"><button class="scan-code" type="default" data-event-opts="{{[['tap',[['scanCode',['$event']]]]]}}" bindtap="__e">扫一扫</button></view></view>

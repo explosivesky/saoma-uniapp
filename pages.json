@@ -1,0 +1,53 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+	// {
+	// 	"path": "pages/skeleton/detail",
+	// 	"style": {
+	// 		"navigationBarTitleText": "扫码点餐",
+	// 		"navigationBarBackgroundColor":"#f9db76"
+	// 	}
+	// },
+		{
+			"path": "pages/saoma/saoma",
+			"style": {
+				"navigationBarTitleText": "扫码点餐",
+				"navigationBarBackgroundColor":"#f9db76"
+			}
+		},
+		{
+			"path":"pages/index/index",
+			"style":{
+				"navigationBarTitleText":"选择人数",
+				"navigationBarBackgroundColor":"#f9db76",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path":"pages/my-order/my-order",
+			"style":{
+			"navigationBarTitleText":"我的订单",
+				"navigationBarBackgroundColor":"#fff"
+			}
+		},
+		{
+			"path":"pages/hone-page/hone-page",
+			"style":{
+			"navigationBarTitleText":"小袁烧烤",
+				"navigationBarBackgroundColor":"#f9db76"
+			}
+		},
+		{
+			"path":"pages/order-detail/order-detail",
+			"style":{
+			"navigationBarTitleText":"订单详情",
+				"navigationBarBackgroundColor":"#f9db76"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
